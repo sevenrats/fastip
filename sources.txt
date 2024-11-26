@@ -1,0 +1,9 @@
+https://ipv4.icanhazip.com/
+https://ident.me
+https://checkip.amazonaws.com/
+https://whatismyip.akamai.com/
+https://api64.ipify.org/
+https://ifconfig.me/ip
+https://ipinfo.io/ip
+https://myip.wtf/text
+https://ipecho.net/plain
